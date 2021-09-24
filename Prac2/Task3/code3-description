@@ -1,0 +1,5 @@
+The question was as to why upon declaring a character data type variable 'a',and inputting '123',the o/p given my the compiler is just '1'. 
+
+Part-1 sample run
+
+Part-2 Correct way to input multiple charcters in the variable.
