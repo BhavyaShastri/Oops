@@ -1,0 +1,2 @@
+In this program we've taken a char variable and used cin to take its value from the user,
+cout it and it only returns one character and loses rest of the data we,ve entered!
