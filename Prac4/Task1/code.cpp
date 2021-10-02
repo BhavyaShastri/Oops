@@ -14,12 +14,9 @@ namespace first{
    }
 int main()
 {
-   cout << first::add(5,6);
+   cout << first::add(3,1);
    cout << "\n";
-   cout << second::add(1.2,2.1);
+   cout << second::add(3.2,2.1);
    cout << "\n";
    return 0;
  }
-
-     
-© 2021 GitHub, In
