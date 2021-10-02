@@ -1,1 +1,4 @@
 This program shows how the preprocessor will react when we use cout but don't include  the header file #include<iostream>.
+
+The output clearly shows that cout function isnt declared. This is because the header file contains functions such as 
+standard I/O functions and other functions too. Hence,in the absence of the header file,the compiler shows an error.
