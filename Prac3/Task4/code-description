@@ -1,0 +1,2 @@
+This task is to resolve the issue faced in the previous task,where we entered data using cin and cout it,
+but only one character was printed while rest was lost.
