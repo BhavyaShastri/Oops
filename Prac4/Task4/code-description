@@ -1,0 +1,1 @@
+This program accesses the methods for Mixed Values [Int, Float] and sees how the compiler will react to it
