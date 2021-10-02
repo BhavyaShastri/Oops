@@ -1,1 +1,3 @@
-This program accesses the methods for Mixed Values [Int, Float] and sees how the compiler will react to it
+This program accesses the methods for Mixed Values [Int, Float] and sees how the compiler will react to it.
+
+The compiler shows an error because because to perform any operation,the data types of the 2 variables should be same.
