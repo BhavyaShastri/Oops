@@ -1,0 +1,2 @@
+In this program we've initialised all primary data types, assigned their values and printed them all
+[char, bool, short, int, long, float, double, long double, wide char]
