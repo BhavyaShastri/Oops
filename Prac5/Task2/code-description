@@ -1,0 +1,6 @@
+Applying sizeof operator on [char, bool, short, int, long, float, double, long double, wide char] operators and their variables
+
+      Example 
+      Int a = 10;
+      Cout << Sizeof(int);
+      Cout << Sizeof(a);
