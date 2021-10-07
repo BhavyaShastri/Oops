@@ -1,0 +1,13 @@
+String Compare: Check the possible values string.compare() function will return?
+
+            (Create cases in which compare function would return below values)
+
+X>0
+X<0
+X==0
+X = -4
+X = 5
+X = -2104040...
+
+
+Also check the ASCII difference between two characters?(use int type cast)
