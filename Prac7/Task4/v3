@@ -1,3 +1,14 @@
+/*Restore the same values in the same array, arr[3][3]:
+
+	  1 2 3		1 1 1
+
+          4 5 6     ==> 2 2 2
+
+	  7 8 9		3 3 3  
+
+  Use, arr[i][j]-(2*i+j)*/
+  
+
 #include<iostream>
 using namespace std;
 
