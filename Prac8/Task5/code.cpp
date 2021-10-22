@@ -1,22 +1,18 @@
 #include<iostream>
-#include<bits/stdc++.h>
-using namespace std; 
-
- inline long int fact(int n)
- {
-  long ans = 1;
-   for(int i = 1 ; i <= n ; i++)
-   {
-      ans*=i;
-   }
-   return ans;
- }
-
+using namespace std;
+int fact(int n);
 int main()
 {
-  int num;
-  cout << "Enter the number : "<<endl;
-  cin >> num;
-  cout << fact(num) << endl;
+  int n;
+  cout<<"Enter the number you want factorial of"<<endl;
+  cin >> n;
+  cout << "Factorial of " << n << "=" << fact(n);
   return 0;
-}
+  }
+  int fact(int n)
+  {
+   if(n>1)
+   return n*fact(n-1);
+   else
+    return 1;
+    }
