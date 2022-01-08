@@ -7,14 +7,14 @@ using namespace std;
 int main()
 {
 	int d=100; 
-	string s="   Ambuj Bhnadari";
+	string s="   Bhavya Shastri";
 	cout<<"hexadecimal: "<<hex<<d<<endl;
 	cout<<"Decimal: "<<dec<<d<<endl;
 	
 	string t;
-	istringstream iss1("   Ambuj "); 
-	istringstream iss2("   Ambuj "); 
-	istringstream iss3("   Ambuj "); 
+	istringstream iss1("   Bhavya "); 
+	istringstream iss2("   Bhavya "); 
+	istringstream iss3("   Bhavya "); 
 	iss1>>noskipws>>t;
 	cout<<"noskipws: "<<t<<endl;
 	iss2>>skipws>>t;
